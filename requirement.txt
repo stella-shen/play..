@@ -1,0 +1,17 @@
+appdirs==1.4.3
+bottle==0.12.13
+ChatterBot==0.5.5
+future==0.16.0
+itchat==1.2.30
+jsondatabase==0.1.7
+nltk==3.2.2
+oauthlib==2.0.1
+packaging==16.8
+pymongo==3.4.0
+pyparsing==2.2.0
+pypng==0.0.18
+PyQRCode==1.2.1
+python-twitter==3.2.1
+requests==2.13.0
+requests-oauthlib==0.8.0
+six==1.10.0
